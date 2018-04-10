@@ -1,0 +1,18 @@
+PODS:
+  - PinLayout (1.5.9)
+  - Reveal-SDK (2)
+  - SwiftLint (0.25.0)
+
+DEPENDENCIES:
+  - PinLayout
+  - Reveal-SDK (~> 2)
+  - SwiftLint
+
+SPEC CHECKSUMS:
+  PinLayout: b2ebf8622b28e82b6e1216ab4e4a0a8d082214fe
+  Reveal-SDK: 4d36a47c7091843eee525b72219e005b90bbac0b
+  SwiftLint: e14651157288e9e01d6e1a71db7014fb5744a8ea
+
+PODFILE CHECKSUM: af346cc6f0ee5214674f7fbc4c5e27222ca08e37
+
+COCOAPODS: 1.4.0
